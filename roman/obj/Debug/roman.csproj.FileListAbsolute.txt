@@ -1,0 +1,61 @@
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\roman.exe.config
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\roman.exe
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\roman.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.Form1.resources
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.Properties.Resources.resources
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.csproj.GenerateResource.Cache
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.exe
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\obj\Debug\roman.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\EntityFramework.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\System.Data.SQLite.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\EntityFramework.xml
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\System.Data.SQLite.xml
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\NAudio.dll
+C:\Users\Krzysztof Piaskowy\Desktop\roman\roman\bin\Debug\NAudio.xml
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\roman.exe.config
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\roman.exe
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\roman.pdb
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\EntityFramework.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\NAudio.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\System.Data.SQLite.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\EntityFramework.xml
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\NAudio.xml
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\System.Data.SQLite.xml
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.csprojResolveAssemblyReference.cache
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.Form1.resources
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.Properties.Resources.resources
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.csproj.GenerateResource.Cache
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.exe
+C:\Users\mleko\Desktop\roman\roman\obj\Debug\roman.pdb
+C:\Users\mleko\Desktop\roman\roman\bin\Debug\BigInteger.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\roman.exe.config
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\roman.exe
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\roman.pdb
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\BigInteger.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\EntityFramework.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\NAudio.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\System.Data.SQLite.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\EntityFramework.xml
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\NAudio.xml
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\System.Data.SQLite.xml
+C:\Users\mleko\Documents\projekty\roman\roman\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.csprojResolveAssemblyReference.cache
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.Form1.resources
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.Properties.Resources.resources
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.csproj.GenerateResource.Cache
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.exe
+C:\Users\mleko\Documents\projekty\roman\roman\obj\Debug\roman.pdb
