@@ -1,1 +1,4 @@
 additional_files_own/
+.vs
+kopia.gitattributes
+kopia.gitignore
